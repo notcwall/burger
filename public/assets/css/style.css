@@ -1,0 +1,69 @@
+body{
+	background-color: #DD8844;
+	font-family: sans-serif;
+}
+
+button{
+	width: 75px;
+	height: 40px;
+	font-weight: bold;
+	background-color: #66DD66;
+	border: none;
+}
+
+h1, h2, h3{
+	text-align: center;
+}
+
+ul{
+	width: 70%;
+}
+
+li{
+	height: 25px;
+	background-color: #BBBBBB;
+	margin: 10px 0;
+	padding: 20px;
+	font-weight: bold;
+}
+
+input{
+	width: 200px;
+	padding: 10px;
+	background-color: #BBBBBB;
+	border: none;
+}
+
+#addForm{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+#addButton{
+	position: relative;
+	bottom: 8px;
+}
+
+#burgerWrapper{
+	width: 85%;
+	margin: 20px auto auto auto;
+}
+
+#availableBurgers{
+	width: 55%;
+	float: left;
+	background-color: #DD4444;
+}
+
+#devouredBurgers{
+	width: 40%;
+	float: right;
+	background-color: #4488DD;
+}
+
+.devourButton{
+	position: relative;
+	left: 115%;
+	bottom: 30px;
+}
