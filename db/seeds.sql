@@ -1,0 +1,1 @@
+INSERT INTO burgers (name, devoured) VALUES ('Quadruple Meat Quintuple Cheese Burger', true);
